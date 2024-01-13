@@ -1,14 +1,14 @@
-# Template: React Native Mobile Application
+# <img src="https://drive.google.com/uc?id=1HioQItuqx9IEasGNdwUvbAKpHDskZ7yp" height="25" /> Template: React Native Mobile Application
 
 This is a template for future React Native Apps based on [Damit Yarn!](https://github.com/Aldwinny/damit-yarn-mobile-app/)
 
 This is a template that uses a set of packages and a predefined directory tree for the ease of organization of source codes.
 
-## Packages
+## 📦 Packages
 
 There are multiple configuration and installed packaged which may be seen in the <code>package.json</code> and <code>babel.config.js</code>
 
-### React Native & Expo Packages
+### <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="15" /> React Native & Expo Packages
 
 - **react**
 - **react-dom**
@@ -19,7 +19,7 @@ There are multiple configuration and installed packaged which may be seen in the
 - **expo-status-bar**
 - **@expo/webpack-config**
 
-### More React Native Packages
+### <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="15" /> More React Native Packages
 
 - **react-native-collapsible** - For React Native collapsible form inputs.
 - **react-native-country-codes-picker** - For the selection of country codes.
@@ -34,7 +34,7 @@ There are multiple configuration and installed packaged which may be seen in the
 - **react-native-vector-icons** - A useful icon library
 - **react-native-web** - For running react native application on the web
 
-### Redux & Redux Persist
+### <img src="https://upload.vectorlogo.zone/logos/js_redux/images/02d76d00-fc90-4c0e-bce7-8a02b6c89d4f.svg" height="15" /> Redux & Redux Persist
 
 - **react-redux** - Introduces Redux for React
 - **redux** - Installs the Redux library
@@ -42,29 +42,29 @@ There are multiple configuration and installed packaged which may be seen in the
 - **@reduxjs/toolkit** - More useful redux stuff.
 - **react-native-async-storage/async-storage** - A dependency for redux persist & a useful library for persisting data across multiple application restarts.
 
-### React Navigation
+### 🚧 React Navigation
 
 - **@react-navigation/bottom-tabs**
 - **@react-navigation/native**
 - **@react-navigation/native-stack**
 
-### API & Security
+### 🔒 API & Security
 
 - **axios** - Library for sending better API calls
 - **bcrypt** - Encryption, Hashing, and stuff.
 
-### Styling
+### <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="15" /> Styling
 
 - **tailwindcss** - Introduces the library for tailwind
 - **nativewind** - Converts tailwind into something that can be used by React Native.
 
-## Directories
+## 📂 Directories
 
 There is a predefined directory tree for the storage of components, services, and constants which are used throughout the application. The directories are as follows
 
 **To be added..**
 
-## Configurations
+## ⚙️ Configurations
 
 Configurations are information regarding the application including how eas configurations and other dependency configurations. See <code>.gitignore, eas.json,</code> and <code>tailwind.config.js</code>
 
